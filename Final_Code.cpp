@@ -2,8 +2,7 @@ PROBLEM STATEMENT :-
   
   
   SOLUTION :-
-    
-    // C++ program for Shannon Fano Algorithm
+// C++ program for Shannon Fano Algorithm
 // include header files
 #include <bits/stdc++.h>
 using namespace std;
