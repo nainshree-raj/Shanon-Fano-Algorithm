@@ -1,5 +1,5 @@
-# Shanon-Fano-Algorithm-In-C++
-An entropy encoding technique for lossless data compression of Multimedia.
+#An entropy encoding technique for lossless data compression of Multimedia.
+                                                     Shanon-Fano-Algorithm-In-C++
 
 Data Compression, also known as source coding, is the process of
 encoding or converting data in such a way that it consumes less memory
